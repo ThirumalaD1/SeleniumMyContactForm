@@ -11,7 +11,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.AfterSuite;
 
-public class Testmycontactform {
+public class Testmycontactform3 {
   @Test(dataProvider = "dp", priority = 0)
   public void testCaseValid(Integer n, String s) {
 	  
